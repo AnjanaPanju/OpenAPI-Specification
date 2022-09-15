@@ -1,0 +1,16 @@
+id = 5b2a1915-9cb1-4b0d-90dd-93a4edeec53b
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"23257592-5037cd35-49d6-437d-baa5-00f741fb9897","path":"Anjana's collection.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"spec3.java.sdk.json","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
