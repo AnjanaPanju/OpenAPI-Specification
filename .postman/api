@@ -1,0 +1,15 @@
+id = 5b2a1915-9cb1-4b0d-90dd-93a4edeec53b
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"spec3.java.sdk.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
