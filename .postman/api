@@ -1,15 +1,15 @@
-id = 5b2a1915-9cb1-4b0d-90dd-93a4edeec53b
+id = 6e4b051e-b4ef-408c-8ff7-caa6eded0b71
 
 [relations]
 
 [relations.collections]
-rootDirectory = postman/collections
+rootDirectory = schemas
+files[] = {"path":"v1.2/dataTypeBase.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = postman/schemas
-files[] = {"path":"spec3.sdk.json","metaData":{}}
+rootDirectory = schemas/v1.2
 
 [relations.apiDefinition.metaData]
 type = openapi:3
