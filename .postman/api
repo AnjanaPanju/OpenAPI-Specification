@@ -4,7 +4,11 @@ id = 6e4b051e-b4ef-408c-8ff7-caa6eded0b71
 
 [relations.collections]
 rootDirectory = schemas
-files[] = {"path":"v1.2/dataTypeBase.json","metaData":{}}
+files[] = {"id":"23257592-01caa18f-d898-4dcc-a755-5cec3703324a","path":"v1.2/apiDeclaration.json","metaData":{}}
+files[] = {"id":"23257592-fd4dead9-8880-45ec-bc2d-9612facba64b","path":"v1.2/authorizationObject.json","metaData":{}}
+files[] = {"id":"23257592-0008d4cf-d943-40c1-a2d2-00b6b11b3514","path":"v1.2/dataTypeBase.json","metaData":{}}
+files[] = {"id":"23257592-b7ae301b-c415-47c3-ba64-9f359ada9c27","path":"v1.2/operationObject.json","metaData":{}}
+files[] = {"id":"23257592-f426fe0f-80d5-4555-affe-0c75a36af59e","path":"v1.2/parameterObject.json","metaData":{}}
 
 [relations.collections.metaData]
 
