@@ -21,7 +21,14 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "?new =1234",
+					"query": [
+						{
+							"key": "new ",
+							"value": "1234",
+							"type": "text"
+						}
+					]
 				}
 			},
 			"response": []
