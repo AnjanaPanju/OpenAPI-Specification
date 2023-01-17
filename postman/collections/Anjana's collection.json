@@ -1,19 +1,19 @@
 {
 	"info": {
-		"_postman_id": "5037cd35-49d6-437d-baa5-00f741fb9897",
+		"_postman_id": "086cb0b0-c495-41f2-b6c4-26d3ec711c66",
 		"name": "Anjana's collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "23257592-5037cd35-49d6-437d-baa5-00f741fb9897"
+		"_uid": "734856-086cb0b0-c495-41f2-b6c4-26d3ec711c66"
 	},
 	"item": [
 		{
 			"name": "New Folder",
 			"item": [],
-			"id": "ee8a4fbc-9a47-40f3-9fa8-f9fa5453ae11"
+			"id": "db6b3db3-ddd8-4d3a-9fb5-51fe7ab8f550"
 		},
 		{
 			"name": "New Request",
-			"id": "81a36e1a-eea3-451c-adff-3655f3337288",
+			"id": "b1e72590-927a-4743-bfc5-4ca57a9ec7ed",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
