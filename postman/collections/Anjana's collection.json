@@ -19,14 +19,30 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": [],
+				"header": [
+					{
+						"key": "Accept-Language",
+						"value": "audio/L24",
+						"type": "text"
+					},
+					{
+						"key": "Accept-Charset",
+						"value": "application/atom+xml",
+						"type": "text"
+					}
+				],
 				"url": {
-					"raw": "?new =1234",
+					"raw": "?new =1234&test=abcd",
 					"query": [
 						{
 							"key": "new ",
 							"value": "1234",
-							"type": "text"
+							"description": "test"
+						},
+						{
+							"key": "test",
+							"value": "abcd",
+							"description": "test"
 						}
 					]
 				}
